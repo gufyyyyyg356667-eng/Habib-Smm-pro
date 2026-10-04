@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Lia AI</string>
+    <string name="accessibility_service_description">Allows Lia to read the screen and perform actions on your behalf when you ask.</string>
+    <string name="notification_channel_voice">Lia voice session</string>
+    <string name="notification_title_listening">Lia is listening</string>
+</resources>
